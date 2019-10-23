@@ -1,0 +1,1029 @@
+
+[
+
+    {
+        "ID": 19706489,
+        "Position": 1,
+        "PlayerID": 12,
+        "Season": 2019,
+        "Sum": 1270500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706490,
+        "Position": 2,
+        "PlayerID": 5,
+        "Season": 2019,
+        "Sum": 1116000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706491,
+        "Position": 3,
+        "PlayerID": 1,
+        "Season": 2019,
+        "Sum": 1048250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706492,
+        "Position": 4,
+        "PlayerID": 17,
+        "Season": 2019,
+        "Sum": 863000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706493,
+        "Position": 5,
+        "PlayerID": 154,
+        "Season": 2019,
+        "Sum": 834500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706494,
+        "Position": 6,
+        "PlayerID": 237,
+        "Season": 2019,
+        "Sum": 743000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706495,
+        "Position": 7,
+        "PlayerID": 202,
+        "Season": 2019,
+        "Sum": 681000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706496,
+        "Position": 8,
+        "PlayerID": 97,
+        "Season": 2019,
+        "Sum": 506500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706497,
+        "Position": 9,
+        "PlayerID": 39,
+        "Season": 2019,
+        "Sum": 470500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706498,
+        "Position": 10,
+        "PlayerID": 16,
+        "Season": 2019,
+        "Sum": 427250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706499,
+        "Position": 11,
+        "PlayerID": 118,
+        "Season": 2019,
+        "Sum": 412000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706500,
+        "Position": 12,
+        "PlayerID": 85,
+        "Season": 2019,
+        "Sum": 392250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706501,
+        "Position": 13,
+        "PlayerID": 30,
+        "Season": 2019,
+        "Sum": 345500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706502,
+        "Position": 14,
+        "PlayerID": 2,
+        "Season": 2019,
+        "Sum": 316000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706503,
+        "Position": 15,
+        "PlayerID": 168,
+        "Season": 2019,
+        "Sum": 292500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706504,
+        "Position": 16,
+        "PlayerID": 158,
+        "Season": 2019,
+        "Sum": 289000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706505,
+        "Position": 17,
+        "PlayerID": 1260,
+        "Season": 2019,
+        "Sum": 285000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706506,
+        "Position": 18,
+        "PlayerID": 224,
+        "Season": 2019,
+        "Sum": 270250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706507,
+        "Position": 19,
+        "PlayerID": 546,
+        "Season": 2019,
+        "Sum": 261100,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706508,
+        "Position": 20,
+        "PlayerID": 68,
+        "Season": 2019,
+        "Sum": 244250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706509,
+        "Position": 21,
+        "PlayerID": 52,
+        "Season": 2019,
+        "Sum": 237750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706510,
+        "Position": 22,
+        "PlayerID": 8,
+        "Season": 2019,
+        "Sum": 212250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706511,
+        "Position": 23,
+        "PlayerID": 93,
+        "Season": 2019,
+        "Sum": 211725,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706512,
+        "Position": 24,
+        "PlayerID": 24,
+        "Season": 2019,
+        "Sum": 211600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706513,
+        "Position": 25,
+        "PlayerID": 905,
+        "Season": 2019,
+        "Sum": 191750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706514,
+        "Position": 26,
+        "PlayerID": 62,
+        "Season": 2019,
+        "Sum": 182750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706515,
+        "Position": 27,
+        "PlayerID": 47,
+        "Season": 2019,
+        "Sum": 180350,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706516,
+        "Position": 28,
+        "PlayerID": 101,
+        "Season": 2019,
+        "Sum": 179000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706517,
+        "Position": 29,
+        "PlayerID": 894,
+        "Season": 2019,
+        "Sum": 176750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706518,
+        "Position": 30,
+        "PlayerID": 28,
+        "Season": 2019,
+        "Sum": 166500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706519,
+        "Position": 31,
+        "PlayerID": 666,
+        "Season": 2019,
+        "Sum": 161500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706520,
+        "Position": 32,
+        "PlayerID": 22,
+        "Season": 2019,
+        "Sum": 160500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706521,
+        "Position": 33,
+        "PlayerID": 27,
+        "Season": 2019,
+        "Sum": 160250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706522,
+        "Position": 34,
+        "PlayerID": 61,
+        "Season": 2019,
+        "Sum": 158600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706523,
+        "Position": 35,
+        "PlayerID": 208,
+        "Season": 2019,
+        "Sum": 157000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706524,
+        "Position": 36,
+        "PlayerID": 200,
+        "Season": 2019,
+        "Sum": 154500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706525,
+        "Position": 37,
+        "PlayerID": 217,
+        "Season": 2019,
+        "Sum": 151225,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706526,
+        "Position": 38,
+        "PlayerID": 906,
+        "Season": 2019,
+        "Sum": 150250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706527,
+        "Position": 39,
+        "PlayerID": 92,
+        "Season": 2019,
+        "Sum": 149600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706528,
+        "Position": 40,
+        "PlayerID": 19,
+        "Season": 2019,
+        "Sum": 146350,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706529,
+        "Position": 41,
+        "PlayerID": 15,
+        "Season": 2019,
+        "Sum": 145725,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706530,
+        "Position": 42,
+        "PlayerID": 120,
+        "Season": 2019,
+        "Sum": 145250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706531,
+        "Position": 43,
+        "PlayerID": 295,
+        "Season": 2019,
+        "Sum": 138000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706532,
+        "Position": 44,
+        "PlayerID": 125,
+        "Season": 2019,
+        "Sum": 133500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706533,
+        "Position": 45,
+        "PlayerID": 1044,
+        "Season": 2019,
+        "Sum": 129975,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706534,
+        "Position": 46,
+        "PlayerID": 9,
+        "Season": 2019,
+        "Sum": 129750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706535,
+        "Position": 47,
+        "PlayerID": 48,
+        "Season": 2019,
+        "Sum": 125750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706536,
+        "Position": 47,
+        "PlayerID": 946,
+        "Season": 2019,
+        "Sum": 125750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706537,
+        "Position": 49,
+        "PlayerID": 1108,
+        "Season": 2019,
+        "Sum": 123000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706538,
+        "Position": 50,
+        "PlayerID": 128,
+        "Season": 2019,
+        "Sum": 121750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706539,
+        "Position": 51,
+        "PlayerID": 497,
+        "Season": 2019,
+        "Sum": 119600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706540,
+        "Position": 52,
+        "PlayerID": 1763,
+        "Season": 2019,
+        "Sum": 118500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706541,
+        "Position": 53,
+        "PlayerID": 42,
+        "Season": 2019,
+        "Sum": 111750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706542,
+        "Position": 54,
+        "PlayerID": 44,
+        "Season": 2019,
+        "Sum": 111250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706543,
+        "Position": 55,
+        "PlayerID": 96,
+        "Season": 2019,
+        "Sum": 107500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706544,
+        "Position": 56,
+        "PlayerID": 4,
+        "Season": 2019,
+        "Sum": 104250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706545,
+        "Position": 56,
+        "PlayerID": 32,
+        "Season": 2019,
+        "Sum": 104250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706546,
+        "Position": 58,
+        "PlayerID": 171,
+        "Season": 2019,
+        "Sum": 98250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706547,
+        "Position": 59,
+        "PlayerID": 25,
+        "Season": 2019,
+        "Sum": 96250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706548,
+        "Position": 60,
+        "PlayerID": 45,
+        "Season": 2019,
+        "Sum": 96000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706549,
+        "Position": 61,
+        "PlayerID": 115,
+        "Season": 2019,
+        "Sum": 92250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706550,
+        "Position": 62,
+        "PlayerID": 908,
+        "Season": 2019,
+        "Sum": 87250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706551,
+        "Position": 63,
+        "PlayerID": 109,
+        "Season": 2019,
+        "Sum": 78500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706552,
+        "Position": 64,
+        "PlayerID": 170,
+        "Season": 2019,
+        "Sum": 77250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706553,
+        "Position": 65,
+        "PlayerID": 218,
+        "Season": 2019,
+        "Sum": 75750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706554,
+        "Position": 66,
+        "PlayerID": 54,
+        "Season": 2019,
+        "Sum": 74750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706555,
+        "Position": 67,
+        "PlayerID": 63,
+        "Season": 2019,
+        "Sum": 70600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706556,
+        "Position": 68,
+        "PlayerID": 1038,
+        "Season": 2019,
+        "Sum": 69750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706557,
+        "Position": 69,
+        "PlayerID": 306,
+        "Season": 2019,
+        "Sum": 68000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706558,
+        "Position": 70,
+        "PlayerID": 1237,
+        "Season": 2019,
+        "Sum": 65000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706559,
+        "Position": 71,
+        "PlayerID": 90,
+        "Season": 2019,
+        "Sum": 54250,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706560,
+        "Position": 72,
+        "PlayerID": 76,
+        "Season": 2019,
+        "Sum": 44750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706561,
+        "Position": 72,
+        "PlayerID": 81,
+        "Season": 2019,
+        "Sum": 44750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706562,
+        "Position": 74,
+        "PlayerID": 608,
+        "Season": 2019,
+        "Sum": 43500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706563,
+        "Position": 75,
+        "PlayerID": 131,
+        "Season": 2019,
+        "Sum": 40500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706564,
+        "Position": 76,
+        "PlayerID": 526,
+        "Season": 2019,
+        "Sum": 40000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706565,
+        "Position": 77,
+        "PlayerID": 520,
+        "Season": 2019,
+        "Sum": 33000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706566,
+        "Position": 78,
+        "PlayerID": 21,
+        "Season": 2019,
+        "Sum": 32000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706567,
+        "Position": 79,
+        "PlayerID": 58,
+        "Season": 2019,
+        "Sum": 29000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706568,
+        "Position": 80,
+        "PlayerID": 592,
+        "Season": 2019,
+        "Sum": 28000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706569,
+        "Position": 81,
+        "PlayerID": 724,
+        "Season": 2019,
+        "Sum": 22750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706570,
+        "Position": 82,
+        "PlayerID": 193,
+        "Season": 2019,
+        "Sum": 17500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706571,
+        "Position": 83,
+        "PlayerID": 1509,
+        "Season": 2019,
+        "Sum": 16500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706572,
+        "Position": 84,
+        "PlayerID": 106,
+        "Season": 2019,
+        "Sum": 15500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706573,
+        "Position": 85,
+        "PlayerID": 593,
+        "Season": 2019,
+        "Sum": 15475,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706574,
+        "Position": 86,
+        "PlayerID": 982,
+        "Season": 2019,
+        "Sum": 14475,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706575,
+        "Position": 87,
+        "PlayerID": 2134,
+        "Season": 2019,
+        "Sum": 13600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706576,
+        "Position": 88,
+        "PlayerID": 910,
+        "Season": 2019,
+        "Sum": 13500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706577,
+        "Position": 89,
+        "PlayerID": 412,
+        "Season": 2019,
+        "Sum": 13350,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706578,
+        "Position": 90,
+        "PlayerID": 104,
+        "Season": 2019,
+        "Sum": 12500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706579,
+        "Position": 91,
+        "PlayerID": 1045,
+        "Season": 2019,
+        "Sum": 10750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706580,
+        "Position": 92,
+        "PlayerID": 123,
+        "Season": 2019,
+        "Sum": 9500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706581,
+        "Position": 92,
+        "PlayerID": 1417,
+        "Season": 2019,
+        "Sum": 9500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706582,
+        "Position": 94,
+        "PlayerID": 33,
+        "Season": 2019,
+        "Sum": 8750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706583,
+        "Position": 95,
+        "PlayerID": 49,
+        "Season": 2019,
+        "Sum": 7500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706584,
+        "Position": 95,
+        "PlayerID": 1982,
+        "Season": 2019,
+        "Sum": 7500,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706585,
+        "Position": 97,
+        "PlayerID": 67,
+        "Season": 2019,
+        "Sum": 6750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706586,
+        "Position": 97,
+        "PlayerID": 239,
+        "Season": 2019,
+        "Sum": 6750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706587,
+        "Position": 97,
+        "PlayerID": 1981,
+        "Season": 2019,
+        "Sum": 6750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706588,
+        "Position": 100,
+        "PlayerID": 983,
+        "Season": 2019,
+        "Sum": 5000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706589,
+        "Position": 100,
+        "PlayerID": 1595,
+        "Season": 2019,
+        "Sum": 5000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706590,
+        "Position": 102,
+        "PlayerID": 14,
+        "Season": 2019,
+        "Sum": 4750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706591,
+        "Position": 102,
+        "PlayerID": 448,
+        "Season": 2019,
+        "Sum": 4750,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706592,
+        "Position": 104,
+        "PlayerID": 1567,
+        "Season": 2019,
+        "Sum": 4600,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706593,
+        "Position": 105,
+        "PlayerID": 933,
+        "Season": 2019,
+        "Sum": 4000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706594,
+        "Position": 106,
+        "PlayerID": 1407,
+        "Season": 2019,
+        "Sum": 3000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706595,
+        "Position": 107,
+        "PlayerID": 38,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706596,
+        "Position": 107,
+        "PlayerID": 79,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706597,
+        "Position": 107,
+        "PlayerID": 151,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706598,
+        "Position": 107,
+        "PlayerID": 177,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706599,
+        "Position": 107,
+        "PlayerID": 588,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706600,
+        "Position": 107,
+        "PlayerID": 1934,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706601,
+        "Position": 107,
+        "PlayerID": 2166,
+        "Season": 2019,
+        "Sum": 2000,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706602,
+        "Position": 114,
+        "PlayerID": 6,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706603,
+        "Position": 114,
+        "PlayerID": 18,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706604,
+        "Position": 114,
+        "PlayerID": 20,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706605,
+        "Position": 114,
+        "PlayerID": 37,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706606,
+        "Position": 114,
+        "PlayerID": 51,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706607,
+        "Position": 114,
+        "PlayerID": 87,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706608,
+        "Position": 114,
+        "PlayerID": 515,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706609,
+        "Position": 114,
+        "PlayerID": 534,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706610,
+        "Position": 114,
+        "PlayerID": 580,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706611,
+        "Position": 114,
+        "PlayerID": 616,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706612,
+        "Position": 114,
+        "PlayerID": 620,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706613,
+        "Position": 114,
+        "PlayerID": 998,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706614,
+        "Position": 114,
+        "PlayerID": 2479,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706615,
+        "Position": 114,
+        "PlayerID": 2498,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    },
+    {
+        "ID": 19706616,
+        "Position": 114,
+        "PlayerID": 2582,
+        "Season": 2019,
+        "Sum": 0,
+        "Type": "MoneyRankings"
+    }
+
+]
